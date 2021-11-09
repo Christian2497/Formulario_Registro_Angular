@@ -1,0 +1,29 @@
+.titulo{
+    text-align: center;
+}
+
+.factura{
+    text-align: center;
+}
+
+.datos{
+    text-align: center;
+    padding-top: 30px;
+}
+
+a{
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    font-size: 0.875rem;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #bcd8c1;
+    display: block;
+    padding: 0.875rem 1rem;
+    border-radius: 1.5rem;
+    box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
+    cursor: pointer;
+    width: 200px;
+    margin-left: 550px;
+    text-decoration: none;
+}

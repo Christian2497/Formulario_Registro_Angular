@@ -1,0 +1,10 @@
+.datosPersonales{
+    text-align: center;
+    border: 1px aquamarine solid;
+    border-radius: 10px;
+    width: 40%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cyan;
+}
